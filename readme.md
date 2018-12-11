@@ -1,4 +1,4 @@
-# Learning 'Objectives for individual work
+# Learning Objectives for individual work
 
 * Network activity
 * Remotes
